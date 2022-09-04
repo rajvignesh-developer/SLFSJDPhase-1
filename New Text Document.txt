@@ -1,0 +1,9 @@
+FrontEnd :        VSCode         POSTMAN 
+MW:        JDK         STS         postman
+Db:                         AWS / Asure / cloud ....!    
+SQl :     mysql     oracle    
+NoSQL :            MongoDB            
+DynamoDB            Postygres            
+CouchDB            Cassandra        
+
+Browser DB :             h2-consol 
